@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    display: block;
+
+}
+.hero{
+background-color: #CDE8E5;
+display: block;
+position: static;
+width: 100%;
+padding-top: 5%;
+}
+.bird{
+height:200px;
+width: 200px;
+margin-left: 90%;
+}
+h1{
+font-family: "Sacramento", cursive;
+font-size:10rem;
+}
+h2{
+font-family: "Jacquard 12", system-ui;
+font-size:10rem;
+}
+.tree{
+height:600px;
+width: 500px;
+margin-right: 90%;
+}
+.intro{
+background-color: #EEF7FF;
+padding-bottom: 5%;
+padding-top: 5%;
+position: relative;
+display: block;
+}
+.gautam{
+height: 500px;
+width: 500px;
+border-radius: 50%;
+margin-top: 100px;
+border: solid 10px white;
+}
+h3{
+font-size: 3rem;
+}
+h4{
+font-size: 2rem;
+font-stretch: expanded;
+}
+.myskills{
+background-color: #EEF7FF;
+padding-bottom: 5%;
+padding-top: 5%;
+position: relative;
+display: block;
+}
+.heading2{
+font-size: 10rem;
+font-weight: bolder;
+}
+.container{
+display: grid;
+grid-template-columns: 800px 800px;
+grid-template-rows: 1fr 1fr;
+row-gap: 2rem;
+justify-content: center;
+
+}
+.web , .hotdog{
+font-size: 2rem;
+color: black;
+}
+.footer{
+background-color: #4D869C;
+padding-bottom: 5%;
+padding-top: 5%;
+position: relative;
+display: block;
+}
+button{
+background-color:white;
+border-color: white;
+border: dotted white;
+height: 50px;
+width: 4%;
+font: bolder;
+margin: 15px;
+font-size: 1.5rem;
+}
+.signoff{
+color: white;
+font-size: xx-large;
+}
