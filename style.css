@@ -69,6 +69,10 @@ row-gap: 2rem;
 justify-content: center;
 
 }
+.webimage , .hotdogimage{
+                        height: 500px;
+                        width: 500px;
+                    }
 .web , .hotdog{
 font-size: 2rem;
 color: black;
