@@ -94,3 +94,127 @@ font-size: 1.5rem;
 color: white;
 font-size: xx-large;
 }
+@media (max-width:600px) {
+    h1,h2{
+        font-size: 2rem;
+    }
+    .tree{
+        height: 100px;
+        width: 100px;
+        margin-right: 90%;
+        }
+        .bird{
+            height:50px;
+            width: 50px;
+            margin-left: 80%;
+            }
+            .gautam{
+                height: 70px;
+                width: 70px;
+                border-radius: 50%;
+                margin-top: 10px;
+                border: solid 5px white;
+                }
+                h3{
+                font-size: 1rem;
+                }
+                h4{
+                font-size: 0.5rem;
+                font-stretch:condensed;
+                }
+                .heading2{
+                    font-size: 2rem;
+                    font-weight: bolder;
+                    }
+                    .container{
+                    display: grid;
+                    grid-template-columns: 200px 200px;
+                    grid-template-rows: 1fr 1fr;
+                    row-gap: 2rem;
+                    
+                    }
+                    .web , .hotdog{
+                    font-size: 0.5rem;
+                    color: black;
+                    }  
+                    .webimage , .hotdogimage{
+                        height: 100px;
+                        width: 100px;
+                    }
+                        button{
+                        background-color:white;
+                        border-color: white;
+                        border: dotted white;
+                        height: 20px;
+                        width: 7%;
+                        font: bolder;
+                        margin: 15px;
+                        font-size: 0.4rem;
+                        }
+                        .signoff{
+                        color: white;
+                        font-size:small;
+                        }         
+}
+@media (max-width:1000px) {
+    h1,h2{
+        font-size: 2rem;
+    }
+    .tree{
+        height: 100px;
+        width: 100px;
+        margin-right: 90%;
+        }
+        .bird{
+            height:50px;
+            width: 50px;
+            margin-left: 80%;
+            }
+            .gautam{
+                height: 70px;
+                width: 70px;
+                border-radius: 50%;
+                margin-top: 10px;
+                border: solid 5px white;
+                }
+                h3{
+                font-size: 1rem;
+                }
+                h4{
+                font-size: 0.5rem;
+                font-stretch:condensed;
+                }
+                .heading2{
+                    font-size: 2rem;
+                    font-weight: bolder;
+                    }
+                    .container{
+                    display: grid;
+                    grid-template-columns: 200px 200px;
+                    grid-template-rows: 1fr 1fr;
+                    row-gap: 2rem;
+                    
+                    }
+                    .web , .hotdog{
+                    font-size: 0.5rem;
+                    color: black;
+                    }  
+                    .webimage , .hotdogimage{
+                        height: 100px;
+                        width: 100px;
+                    }
+                        button{
+                        background-color:white;
+                        border-color: white;
+                        border: dotted white;
+                        height: 20px;
+                        width: 7%;
+                        font: bolder;
+                        margin: 15px;
+                        font-size: 0.4rem;
+                        }
+                        .signoff{
+                        color: white;
+                        font-size:small;
+                        }   
+}
